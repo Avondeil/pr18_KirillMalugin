@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Prakt18RMP</string>
+    <string name="namefilm">Название фильма</string>
+    <string name="collection">Добавление фильма в коллекцию</string>
+    <string name="genre">Жанр фильма</string>
+    <string name="addcollect">Добавление фильма в коллекцию</string>
+    <string name="addcollection">Добавить фильм в коллекцию</string>
+    <string name="back">Вернуться к добавлению</string>
+    <string name="collect">Коллекция фильмов</string>
+</resources>
